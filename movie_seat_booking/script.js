@@ -77,5 +77,5 @@ container.addEventListener('click', (e) => {
   }
 });
 
-// Initial count and total
+// Initial count and total (call on page load)
 updateSelectedCount();
