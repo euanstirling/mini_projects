@@ -18,3 +18,10 @@ Basic seat selction for a movie theatre
 - store seats, movie and costs in local storage
 
 # custom_video_player
+
+Project 3: HTML, CSS, JS
+
+- Using video properties
+- New video buttons and updating timer
+
+# exchange_rate_calculator
