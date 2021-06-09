@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fetch API Sandbox</title>
+  </head>
+  <body>
+    <button id="getText">Get Text</button>
+    <button id="getUsers">Get User</button>
+    <div id="output"></div>
+
+    <script>
+      document.getElementById('getText').addEventListener('click', getText);
+      document.getElementById('getUsers').addEventListener('click', getUsers);
+
+      function getText() {
+        // fetch('sample.txt')
+        //   .then(function (res) {
+        //     // you can use anything, we use 'res' == response//
+        //     // to get a basic response of the promise we would use res.text(), if it was json, res.json()
+        //     return res.text();
+        //   })
+        //   // after the data is returned we need another .then with a function to return the actual 'data'
+        //   .then(function (data) {
+        //     console.log(data);
+        //   });
+
+        // using arrow function
+        fetch('sample.txt')
+          .then((res) => res.text())
+          // to do something with the data it needs to go into a code block below (adding data to 'output div')
+          .then((data) => {
+            document.getElementById('output').innerHTML = data;
+          })
+          .catch((err) => console.log(err)); // catch errors
+      }
+
+      function getUsers() {
+        fetch('users.json')
+          .then((res) => res.json())
+          .then((data) => {
+            let output = '<h2>Users</h2>';
+            data.forEach(function (user) {
+              output += `
+                <ul>
+                    <li>ID: ${user.id}</li>
+                    <li>Name: ${user.name}</li>
+                    <li>Email: ${user.email}</li>
+                    </ul>`;
+            });
+            document.getElementById('output').innerHTML = output;
+          });
+      }
+    </script>
+  </body>
+</html>
