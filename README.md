@@ -25,3 +25,9 @@ Project 3: HTML, CSS, JS
 - New video buttons and updating timer
 
 # exchange_rate_calculator
+
+Project 4: HTML, CSS, JS
+
+- Create a dynamic exchange rate calculator
+- Using FETCH API to request exchange rates
+- Currency selector buttons
