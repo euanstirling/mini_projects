@@ -26,8 +26,21 @@ Project 3: HTML, CSS, JS
 
 # exchange_rate_calculator
 
-Project 4: HTML, CSS, JS
+Project 4: HTML, CSS, JS, API
 
 - Create a dynamic exchange rate calculator
 - Using FETCH API to request exchange rates
 - Currency selector buttons
+
+# DOM_array_methods
+
+Project 5: HTML, CSS, JS, API
+
+- Create a small app that calls randomuser API
+- Show some user data elements
+- Create buttons that use different array methods
+- map() filter() reduce() sort()
+
+# menu_slider_and_modal
+
+Project 6: HTML, CSS, JS
