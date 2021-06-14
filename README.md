@@ -44,3 +44,6 @@ Project 5: HTML, CSS, JS, API
 # menu_slider_and_modal
 
 Project 6: HTML, CSS, JS
+
+- Navbar styling
+- Header and modal styling and toggle
