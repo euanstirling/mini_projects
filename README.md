@@ -52,6 +52,10 @@ Project 6: HTML, CSS, JS
 
 Project 8: HTML, CSS, JS, API
 
-- DOM 
+- DOM
 - fetch from themealdv.com
 - Styling
+
+# expense_tracker
+
+Project 9: HTML, CSS, JS, Local Storage
