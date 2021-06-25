@@ -47,3 +47,11 @@ Project 6: HTML, CSS, JS
 
 - Navbar styling
 - Header and modal styling and toggle
+
+# meal_finder
+
+Project 8: HTML, CSS, JS, API
+
+- DOM 
+- fetch from themealdv.com
+- Styling
