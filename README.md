@@ -59,3 +59,11 @@ Project 8: HTML, CSS, JS, API
 # expense_tracker
 
 Project 9: HTML, CSS, JS, Local Storage
+
+- DOM
+- Storing transactions in local storage
+- .reduce() .filter()
+
+# music_player
+
+Project 10: HTML, CSS, JS
