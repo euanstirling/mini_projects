@@ -67,3 +67,5 @@ Project 9: HTML, CSS, JS, Local Storage
 # music_player
 
 Project 10: HTML, CSS, JS
+
+- Audio API
