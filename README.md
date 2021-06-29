@@ -69,3 +69,11 @@ Project 9: HTML, CSS, JS, Local Storage
 Project 10: HTML, CSS, JS
 
 - Audio API
+
+# infinite_scroll
+
+Project 10: HTML, CSS, JS
+
+- Fetch API
+- Async / await
+- CSS Loader
