@@ -74,6 +74,6 @@ Project 10: HTML, CSS, JS
 
 Project 10: HTML, CSS, JS
 
-- Fetch API
+- Fetch API (JSON.placeholder)
 - Async / await
 - CSS Loader
