@@ -53,7 +53,7 @@ Project 6: HTML, CSS, JS
 Project 8: HTML, CSS, JS, API
 
 - DOM
-- fetch from themealdv.com
+- fetch from themealdb.com API
 - Styling
 
 # expense_tracker
@@ -77,3 +77,11 @@ Project 10: HTML, CSS, JS
 - Fetch API (JSON.placeholder)
 - Async / await
 - CSS Loader
+
+# typing_game
+
+Project 11: HTML, CSS, JS
+
+- DOM
+- Intervals
+- Events
