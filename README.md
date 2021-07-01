@@ -85,3 +85,10 @@ Project 11: HTML, CSS, JS
 - DOM
 - Intervals
 - Events
+
+# speach_text_reader
+
+Project 12: HTML, CSS, JS, API
+
+- Web speech API
+- Speech synthesis
