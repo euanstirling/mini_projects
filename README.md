@@ -94,3 +94,10 @@ Project 12: HTML, CSS, JS, API
 - Speech synthesis
 - CSS Grid
 - Responsive design
+
+# memory_cards
+
+Project 13: HTML, JS, CSS
+
+- CSS effects
+- Local storage
