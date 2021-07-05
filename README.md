@@ -86,7 +86,7 @@ Project 11: HTML, CSS, JS
 - Intervals
 - Events
 
-# speach_text_reader
+# speech_text_reader
 
 Project 12: HTML, CSS, JS, API
 
