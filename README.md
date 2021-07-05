@@ -92,3 +92,5 @@ Project 12: HTML, CSS, JS, API
 
 - Web speech API
 - Speech synthesis
+- CSS Grid
+- Responsive design
