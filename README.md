@@ -101,3 +101,4 @@ Project 13: HTML, JS, CSS
 
 - CSS effects
 - Local storage
+- EXTRA: add delete per card and not clear all
