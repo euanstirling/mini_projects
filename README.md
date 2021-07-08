@@ -109,3 +109,12 @@ Project 14: HTML, CSS, JS
 
 - CSS animations
 - setTimeout
+
+# new_year_countdown
+
+Project 15: HTML, CSS, JS
+
+- DOM
+- Date and time
+- EXTRA: make it a Christmas countdown
+  add some aninmation in the background
