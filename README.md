@@ -118,3 +118,9 @@ Project 15: HTML, CSS, JS
 - Date and time
 - EXTRA: make it a Christmas countdown
   add some aninmation in the background
+
+# sortable_list
+
+Project 16: HTML, CSS, JS
+
+- Drag and drop API
