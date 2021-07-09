@@ -130,3 +130,17 @@ Project 16: HTML, CSS, JS
 Project 17: HTML, CSS, JS
 
 - Speech recognition API
+- Display UI with song/artist input
+- Fetch songs/artists and put in DOM
+- Add pagination
+- Add get lyrics functionality and display in DOM
+
+# lyrics_search_app
+
+Project 18: HTML, CSS, JS
+
+- lyrics.ovh(https://lyrics.ovh) API
+- Display UI with song/artist input
+- Fetch songs/artists and put in DOM
+- Add pagination
+- Add get lyrics functionality and display in DOM
