@@ -144,3 +144,4 @@ Project 18: HTML, CSS, JS
 - Fetch songs/artists and put in DOM
 - Add pagination
 - Add get lyrics functionality and display in DOM
+- API IS CUIRRENLTY DOWN
