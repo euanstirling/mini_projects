@@ -124,3 +124,9 @@ Project 15: HTML, CSS, JS
 Project 16: HTML, CSS, JS
 
 - Drag and drop API
+
+# speak_number_guessing_game
+
+Project 17: HTML, CSS, JS
+
+- Speech recognition API
